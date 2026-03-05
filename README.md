@@ -99,7 +99,7 @@ The Tableau dashboard visualizes:
 - Top 10 revenue-generating products
 - Top 10 revenue by country
 
-##Tableau Dashboard
+## Tableau Dashboard
 
 ![Dashboard Preview](visuals/dashboard_preview.png)
 

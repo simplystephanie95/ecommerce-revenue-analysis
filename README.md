@@ -99,6 +99,10 @@ The Tableau dashboard visualizes:
 - Top 10 revenue-generating products
 - Top 10 revenue by country
 
+##Tableau Dashboard
+
+![Dashboard Preview](visuals/dashboard_preview.png)
+
 Interactive Dashboard:  
 *(https://public.tableau.com/app/profile/stephanie.korad/viz/ecommerce-revenue-analysis/BusinessKPI#1)*
 
